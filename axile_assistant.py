@@ -443,24 +443,9 @@ with st.expander("📊 Government Data Sources Used"):
     ### Primary Dataset
     **Australian Innovation System Monitor**
     - Source: Department of Industry, Science and Resources
-    - Years: 2006-2024
-    - URL: [data.gov.au/dataset/innovation-statistics](https://data.gov.au)
-    - Metrics: 200+ innovation indicators including R&D spending, patent applications, startup success rates
-    
-    ### Supporting Datasets
-    **Digital Transformation Agency Project Outcomes**
-    - Project success/failure rates
-    - Timeline adherence statistics
-    
-    **Australian National Audit Office Reports**
-    - IT project performance data
-    - Complexity vs. failure correlations
-    
-    ### Framework Validation Data
-    Used historical GovHack project data to validate failure patterns:
-    - 2019-2023 project submissions
-    - Success criteria vs. actual outcomes
-    - Time management patterns in 48-hour format
+    - Years: 2025
+    - URL: [https://www.industry.gov.au/publications/australian-innovation-statistics#container-20997](Click here)
+    - Metrics: 200+ innovation indicators including R&D spending, collaboration, skills and innovation outcomes
     """)
 
 # Final call to action
